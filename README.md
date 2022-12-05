@@ -1,5 +1,7 @@
 # Praktikum7
+
 ---
+
 ## Latilan
 
 Ubahlah kode dibawah ini menjadi fungsi menggunakan lambda
@@ -63,6 +65,7 @@ print(de("usus 12 jari"))
 ![gambar1](gambar/a.png)
 
 ---
+
 ## Tugas Praktikum 
 
 Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan :
@@ -156,6 +159,7 @@ def ubah(*nama):
 ```
 
 ---
+
 ##### hasil ketika sudah dijalankan
 
 
